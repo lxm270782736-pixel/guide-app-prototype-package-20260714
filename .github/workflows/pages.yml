@@ -2,7 +2,7 @@ name: Deploy Prototype Package
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   workflow_dispatch:
 
 permissions:
