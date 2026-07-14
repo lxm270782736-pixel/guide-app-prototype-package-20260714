@@ -2,7 +2,7 @@
 
 本项目包对应 GitHub Pages 原型：
 
-https://lxm270782736-pixel.github.io/stardust-desktop-sid/
+https://lxm270782736-pixel.github.io/guide-app-prototype-package-20260714/
 
 本地静态原型入口：`prototype/index.html`
 

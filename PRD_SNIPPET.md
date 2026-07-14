@@ -8,3 +8,5 @@
 - 压缩包：`guide_app_prototype_package_20260714.zip`
 
 该项目包对应导览 App 一期配置台的类型定义、主动迎宾、定点讲解、步骤编排、任务下发和校验逻辑。公网预览仅作为在线访问入口，项目包作为长期参考依据。
+
+独立公网预览：<https://lxm270782736-pixel.github.io/guide-app-prototype-package-20260714/>
