@@ -1,0 +1,1 @@
+{"version":3,"file":"async-switch.d.ts","sourceRoot":"","sources":["../src/async-switch.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAA;AAY9B,QAAA,MAAM,WAAW;aAJN,OAAO;qBACC,CAAC,OAAO,EAAE,OAAO,KAAK,OAAO,CAAC,OAAO,CAAC,GAAG,OAAO;2CA2CjE,CAAA;AAIF,OAAO,EAAE,WAAW,EAAE,CAAA"}

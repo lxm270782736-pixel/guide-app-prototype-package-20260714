@@ -1,0 +1,42 @@
+@tailwind utilities;
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "HarmonyOS Sans SC", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: hsl(var(--background));
+  color: hsl(var(--foreground));
+}
+
+#root {
+  overflow: auto;
+}
+
+.app-shell {
+  box-sizing: border-box;
+  height: 100%;
+  min-height: 0;
+  overflow: auto;
+  padding-top: var(--astribot-app-top-safe-area, 3rem);
+  background: hsl(var(--background));
+  color: hsl(var(--foreground));
+}
+
+.app-shell--standalone {
+  min-height: 100vh;
+  padding-top: 0;
+}
+
+.app-shell--fullscreen {
+  height: 100%;
+  min-height: 0;
+  overflow: hidden;
+  background: hsl(var(--background));
+}
